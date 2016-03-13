@@ -1,5 +1,8 @@
 package week1;
 
+import duke.Location;
+import duke.QuakeEntry;
+import duke.QuakeTestHelper;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -7,7 +10,7 @@ import java.util.List;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.*;
-import static week1.QuakeTestHelper.Size.SMALL;
+import static duke.QuakeTestHelper.Size.SMALL;
 
 public class ClosestQuakesTest {
 

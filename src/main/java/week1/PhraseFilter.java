@@ -1,5 +1,6 @@
 package week1;
 
+import duke.QuakeEntry;
 import week1.EarthQuakeClient.Where;
 
 public class PhraseFilter implements Filter {

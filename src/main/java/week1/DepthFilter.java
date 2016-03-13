@@ -1,5 +1,7 @@
 package week1;
 
+import duke.QuakeEntry;
+
 public class DepthFilter implements Filter {
 
   private double minDepth, maxDepth;

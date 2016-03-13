@@ -1,4 +1,4 @@
-package week1;
+package duke;
 
 import java.io.File;
 import java.io.IOException;

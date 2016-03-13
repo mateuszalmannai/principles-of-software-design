@@ -1,5 +1,7 @@
 package week1;
 
+import duke.QuakeEntry;
+
 public class MagnitudeFilter implements Filter {
 
   private double minimumMagnitude;

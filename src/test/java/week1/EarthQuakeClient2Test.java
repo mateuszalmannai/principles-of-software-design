@@ -1,5 +1,8 @@
 package week1;
 
+import duke.Location;
+import duke.QuakeEntry;
+import duke.QuakeTestHelper;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -9,8 +12,8 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 import static week1.EarthQuakeClient.Where.ANY;
 import static week1.EarthQuakeClient.Where.END;
-import static week1.QuakeTestHelper.Size.LARGE;
-import static week1.QuakeTestHelper.Size.SMALL;
+import static duke.QuakeTestHelper.Size.LARGE;
+import static duke.QuakeTestHelper.Size.SMALL;
 
 public class EarthQuakeClient2Test {
 

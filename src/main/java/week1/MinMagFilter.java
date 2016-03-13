@@ -1,5 +1,7 @@
 package week1;
 
+import duke.QuakeEntry;
+
 /**
  * Write a description of class MinMaxFilter here.
  *

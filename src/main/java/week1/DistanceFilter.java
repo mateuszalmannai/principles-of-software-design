@@ -1,5 +1,8 @@
 package week1;
 
+import duke.Location;
+import duke.QuakeEntry;
+
 public class DistanceFilter implements Filter {
 
   private Location locationFrom;

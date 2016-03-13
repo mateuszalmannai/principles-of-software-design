@@ -1,5 +1,8 @@
 package week1;
 
+import duke.EarthQuakeParser;
+import duke.QuakeEntry;
+
 import java.util.*;
 
 public class EarthQuakeClient2 {

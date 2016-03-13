@@ -1,5 +1,7 @@
 package week1;
 
+import duke.QuakeEntry;
+
 import java.util.*;
 
 public class LargestQuakes {

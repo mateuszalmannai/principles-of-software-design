@@ -6,6 +6,10 @@ package week1;
  * @version 1.0, November 2015
  */
 
+import duke.EarthQuakeParser;
+import duke.Location;
+import duke.QuakeEntry;
+
 import java.util.*;
 
 public class ClosestQuakes {
